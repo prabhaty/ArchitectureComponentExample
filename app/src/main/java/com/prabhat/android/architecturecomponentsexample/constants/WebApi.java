@@ -8,6 +8,6 @@ public class WebApi {
 
     public static String BASEURL="http://thegraphicplanet.com/swarnkarshaadi/Webservices/";
 
-    public static String GET_CITY="showStateCity/";
+
 
 }

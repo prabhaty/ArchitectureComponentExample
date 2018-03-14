@@ -40,8 +40,6 @@ public class CityListRepository {
                 if (response.isSuccessful()){
                     data.setValue(response.body().getCityList());
                 }
-
-
             }
 
             @Override
